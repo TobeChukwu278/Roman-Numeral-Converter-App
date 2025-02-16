@@ -91,3 +91,12 @@ Contributions are welcome! Please submit pull requests for bug fixes, new featur
 ## License
 
 MIT License
+
+And lastly, I hve mastred th JavaScript Sections below:
+
+1. Javascript Conditioners
+2. JavaScript Functions
+3. JavaScript mathematical operators and it's comparison operators
+4. JavaScript variables
+5. JavaScript Arrays and Objectes
+6. JavaScript statments
